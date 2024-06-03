@@ -1,7 +1,7 @@
 
 # My Tasks
 
-This project includes a fully working RESTful APIs developed using NodeJs and express to make a fully functioning Task Managing Back end App working with a presistent DB with no UI.
+This project includes a fully working RESTful APIs developed using NodeJs and express to make a fully functioning Task Managing Back end App working with a persistent DB with no UI.
 
 # Some functionalities include:
 - Signing up as a new user with a profile picture
